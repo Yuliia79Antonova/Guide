@@ -1,4 +1,10 @@
 
-The git init command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
+Git rm 
+Git rm to remove file(s) from the staging area.
+Format git rm filename
+Can use wildcards and -r for recursive
+Use -- cached to remove from staging area
+Use -f to use on working directory 
+
  
 
