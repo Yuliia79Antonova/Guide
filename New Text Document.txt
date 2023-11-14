@@ -1,3 +1,3 @@
-Git branch - Users can create a new branch in Git by running the 'git checkout -b my-branch-name' command, where 'my-branch-name' can be replaced with the desired name. To switch between local branches, the 'git checkout my-branch-name' command is used.
+Git checkout - The git checkout command lets you navigate between the branches created by git branch . Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
  
 
