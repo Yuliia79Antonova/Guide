@@ -1,3 +1,5 @@
-Git log - The git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes. While git status lets you inspect the working directory and the staging area, git log only operates on the committed history.
+
+Git add - Git add is a command that allows you to stage individual files, or all files in the project directory at once, preparing them to be staged. Git add is one of the most important and fundamental commands in Git, and there are many ways to use it.
+
  
 
